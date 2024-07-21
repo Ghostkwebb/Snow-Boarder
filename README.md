@@ -1,6 +1,6 @@
 # Snow Boarder
 
-![Snow Boarder]([(https://github.com/user-attachments/assets/97deb2f1-6dd3-4509-8569-ed2d9e9d8c75)
+![Snow Boarder](https://github.com/user-attachments/assets/97deb2f1-6dd3-4509-8569-ed2d9e9d8c75)
 
 
 ## Table of Contents
